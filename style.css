@@ -1,0 +1,59 @@
+.p{
+    font-family:'Franklin Gothic Medium';
+    text-align: left;
+    font-style: normal;
+    font-size: medium;
+    background-color: black;
+    color:chartreuse
+}
+.portfolio{
+    font-size: large;
+    font-family: 'Times New Roman';
+    background-color: black;
+    color: aqua;
+}
+.end{
+    font-display:unset;
+    text-align: center;
+    font-size: small;
+    background-color: black;
+    color: brown;
+}
+
+
+.body{
+background-color: black;
+
+}
+
+.img{
+    align-content:first baseline;
+    width: 300px;
+    height: 500px;
+}
+.instalogo{
+    align-content:start;
+    width: 50px;
+    height: 50px;
+}
+.twitterlogo{
+    align-content:flex-start;
+    width: 50px;
+    height: 50px;
+    padding-left:30px ;
+}
+.certification{
+    width: 50px;
+    height: 50px;
+    padding-left: 30px;
+}
+.header{
+    font-size: large;
+    font-family:Times;
+
+}
+.abcd{
+    height: 300px;
+    width: 300px;
+    padding-left:30px;
+}
